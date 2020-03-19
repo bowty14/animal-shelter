@@ -19,3 +19,16 @@
 body {
   background-color: lightslategray;
 }
+
+@media screen (max-width: 480px) and (min-width:300px) {
+  body {
+    background-color: lightslategrey;
+  }
+
+}
+
+@media screen (max-width:1000px) (min-width:700px) {
+  body {
+    Background-color:orange;
+  }
+}
