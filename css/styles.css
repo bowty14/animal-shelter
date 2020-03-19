@@ -22,7 +22,7 @@ body {
 
 @media screen (max-width: 480px) and (min-width:300px) {
   body {
-    background-color: lightslategrey;
+    background-color: orange;
   }
 
 }
